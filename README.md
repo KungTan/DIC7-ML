@@ -2,6 +2,9 @@
 
 這是一個基於 **Streamlit** 與 **Scikit-Learn** 開發的互動式 Web 應用程式，旨在向使用者演示如何遵循數據科學標準開發流程 **CRISP-DM** 進行數據模擬、模型訓練與評估。
 
+### 🌐 Live Demo
+👉 [https://dic7-ml.streamlit.app/](https://dic7-ml.streamlit.app/)
+
 ## 🌟 功能特點
 - **CRISP-DM 全流程展示**：完整包含從「業務理解」到「部署」的六個標準階段。
 - **互動式數據模擬**：透過側邊欄滑桿即時生成自定義樣本數、斜率、截距及雜訊。
